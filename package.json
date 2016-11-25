@@ -1,0 +1,18 @@
+{
+  "name": "quote-machine",
+  "version": "1.0.0",
+  "description": "A simple quote maker, just call the library and you will get one random quote each time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test",
+    "command:"
+  ],
+  "author": "Lucas Reppe Welander",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
