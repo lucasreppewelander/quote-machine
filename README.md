@@ -11,7 +11,7 @@ npm install quotelog
 
 ## Usage
 ```javascript
-const quote = require(qm.js);
+const quote = require('quotelog');
 quote((q) => q);
 ```
 
