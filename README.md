@@ -1,10 +1,10 @@
-# Awesome Quote Machine
-> A simple quote maker, just call the library and you will get one random quote each time
+# Quotelog
+> A simple quote logger, just call the library and you will get one random quote console.logged for you each time
 
 ## usage
 ```javascript
-var quote = require(quotes);
-console.log(quote());
+const quote = require(qm.js);
+quote((q) => q);
 ```
 
 -------------------------

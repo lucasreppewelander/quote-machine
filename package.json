@@ -1,7 +1,7 @@
 {
-  "name": "quote-machine",
+  "name": "quotelog",
   "version": "1.0.0",
-  "description": "A simple quote maker, just call the library and you will get one random quote each time",
+  "description": "A simple quote logger, just call the library and you will get one random quote console.logged for you each time",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,10 @@
   "author": "Lucas Reppe Welander",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.2"
+    "async": "^2.1.4",
+    "axios": "^0.15.2",
+    "chalk": "^1.1.3",
+    "lodash": "^4.17.2",
+    "request": "^2.79.0"
   }
 }
